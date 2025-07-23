@@ -16,10 +16,33 @@ Key Insights and conclusions
 
 🛠️ Tools & Libraries Used
 Python 3.x
+
 Python
+
 Numpy
+
 Pandas
+
 Matplotlib
+
 Seaborn
+
+🧠 How to Use
+
+Launch the jupyter notebook "Website performance analysis.ipynb"
+then Run the cells step by step to perform the analysis.
+
+🔍 Key Insights
+
+Provides patterns or trends for website sessions and users
+
+Organic Social Channel brought highest number of users to the website
+
+Analyse the correlation between high sessions and high engagement rate
+
+Gives a major information that Email brought less users but has high engagement rate, so website can work on this channel
+
+
+Thanks for checking out this project!
 
 
