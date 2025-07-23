@@ -42,10 +42,9 @@ This project provides a detailed exploratory data analysis (EDA) of website perf
 
 ---
 
-## 🙏 Thank You
 
 Thanks for checking out this project!  
-Feel free to ⭐ the repo or reach out with any feedback or suggestions.
+
 
 
 
