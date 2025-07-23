@@ -1,48 +1,51 @@
-📊 Website Performance Analysis
+# 📊 Website Performance Analysis
 
-This project provides a detailed exploratory data analysis(EDA) of website performance using Python. It includes key performance indicators (KPIs) such as load times, request statistics, and visualizations to help developers understand and optimize web experiences.
+This project provides a detailed exploratory data analysis (EDA) of website performance using Python. It includes key performance indicators (KPIs) such as load times, request statistics, and visualizations to help developers understand and optimize web experiences.
 
-📁 Project Structure
+---
 
-Website performance analysis.ipynb – Main Jupyter Notebook containing:
+## 📁 Project Structure
 
-Data loading and cleaning using libraries
+**`Website performance analysis.ipynb`** – Main Jupyter Notebook containing:
 
-Metrics computation include major descriptive statistics
+- Data loading and cleaning using libraries
+- Metrics computation including major descriptive statistics
+- Visualization of performance trends using heatmaps, bar plots, and box plots
+- Key insights and conclusions
 
-Visualization of performance trends using heatmaps, barplots, and boxplots.
+---
 
-Key Insights and conclusions
+## 🛠️ Tools & Libraries Used
 
-🛠️ Tools & Libraries Used
-Python 3.x
+- 🐍 Python 3.x  
+- 🔢 NumPy  
+- 🧮 Pandas  
+- 📊 Matplotlib  
+- 🌈 Seaborn  
 
-Python
+---
 
-Numpy
+## 🧠 How to Use
 
-Pandas
+1. Launch the Jupyter Notebook:  
+   `Website performance analysis.ipynb`
+2. Run the cells step by step to perform the analysis.
 
-Matplotlib
+---
 
-Seaborn
+## 🔍 Key Insights
 
-🧠 How to Use
+- 📈 Provides patterns or trends for website sessions and users
+- 🌐 Organic Social Channel brought the highest number of users to the website
+- 🔄 Analyzes the correlation between high sessions and high engagement rate
+- ✉️ Email brought fewer users but showed high engagement — indicating potential for channel optimization
 
-Launch the jupyter notebook "Website performance analysis.ipynb"
-then Run the cells step by step to perform the analysis.
+---
 
-🔍 Key Insights
+## 🙏 Thank You
 
-Provides patterns or trends for website sessions and users
+Thanks for checking out this project!  
+Feel free to ⭐ the repo or reach out with any feedback or suggestions.
 
-Organic Social Channel brought highest number of users to the website
-
-Analyse the correlation between high sessions and high engagement rate
-
-Gives a major information that Email brought less users but has high engagement rate, so website can work on this channel
-
-
-Thanks for checking out this project!
 
 
